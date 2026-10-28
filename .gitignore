@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+build/
+dist/
+test-results/
+# Private document used for local regression testing.
+/钉钉直播 2021-11-09_原文.docx
